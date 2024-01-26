@@ -1,0 +1,1716 @@
+Uri: https://block.codescandy.com/404-error.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\404-error.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/about-v2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\about-v2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/about.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\about.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-app-integration.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-app-integration.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-appearance.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-appearance.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-billing.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-billing.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-device-session.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-device-session.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-home.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-home.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-notification.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-notification.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-profile.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-profile.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-security.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-security.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-social-links.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-social-links.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/account-team.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\account-team.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/assets/css/theme.min.css
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\css\theme.min.css
+Content Type: text/css
+
+Uri: https://block.codescandy.com/assets/fonts/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\fonts\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://block.codescandy.com/assets/fonts/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\fonts\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://block.codescandy.com/assets/fonts/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\fonts\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/fonts/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\fonts\fonts\boxicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://block.codescandy.com/assets/fonts/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\fonts\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://block.codescandy.com/assets/fonts/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\fonts\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-grid-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-grid-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-grid-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-grid-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-grid-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-grid-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-hero-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-hero-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-value-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-value-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-value-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-value-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/about-img/about-value-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\about-img\about-value-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/avatar-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\avatar-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/avatar-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\avatar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/avatar-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\avatar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/avatar-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\avatar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/avatar-5.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\avatar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/avatar-6.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\avatar-6.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/avatar-7.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\avatar-7.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/avatar-8.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\avatar-8.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/avatar-9.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\avatar-9.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/avatar/fallback.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\avatar\fallback.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/award-logo/award-logo-1.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\award-logo\award-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/award-logo/award-logo-2.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\award-logo\award-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/award-logo/award-logo-3.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\award-logo\award-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/award-logo/award-logo-4.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\award-logo\award-logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/about-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\about-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/blog-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\blog-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/call-to-action-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\call-to-action-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/carousel-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\carousel-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/clients-logo-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\clients-logo-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/contact-section-example.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\contact-section-example.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/faq-section-example.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\faq-section-example.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/feature-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\feature-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/footer-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\footer-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/form-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\form-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/header-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\header-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/hero-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\hero-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/integration-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\integration-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/location-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\location-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/portfolio-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\portfolio-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/pricing-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\pricing-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/process-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\process-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/stats-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\stats-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/team-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\team-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/block/testimonial-snippets-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\block\testimonial-snippets-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/blog/blog-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\blog\blog-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/blog/blog-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\blog\blog-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/blog/blog-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\blog\blog-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/blog/blog-img-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\blog\blog-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/blog/blog-img-5.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\blog\blog-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/blog/blog-img-6.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\blog\blog-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/blog/blog-img-7.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\blog\blog-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/blog/blog-img-9.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\blog\blog-img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-1.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-10.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-10.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-11.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-11.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-12.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-12.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-2.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-3.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-4.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-5.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-6.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-7.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-7.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-8.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-8.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/brand-logo/brand-logo-9.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\brand-logo\brand-logo-9.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/career/career-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\career\career-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/career/career-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\career\career-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/career/career-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\career\career-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/career/career-img-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\career\career-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/career/career-img-5.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\career\career-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/carousel-image/carousel-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\carousel-image\carousel-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/carousel-image/carousel-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\carousel-image\carousel-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/carousel-image/carousel-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\carousel-image\carousel-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/change-log/changelog.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\change-log\changelog.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/client-logo/clients-logo-1.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\client-logo\clients-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/client-logo/clients-logo-2.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\client-logo\clients-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/client-logo/clients-logo-3.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\client-logo\clients-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/client-logo/clients-logo-4.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\client-logo\clients-logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/client-logo/clients-logo-5.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\client-logo\clients-logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/client-logo/logoipsum-1.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\client-logo\logoipsum-1.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/client-logo/logoipsum-2.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\client-logo\logoipsum-2.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/client-logo/logoipsum-3.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\client-logo\logoipsum-3.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/docs/block-figma.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\docs\block-figma.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/docs/path-bootstrap.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\docs\path-bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/docs/path-gulp.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\docs\path-gulp.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/docs/path-nodejs.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\docs\path-nodejs.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/docs/path-sass.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\docs\path-sass.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/error/404-number.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\error\404-number.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/error/astronut.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\error\astronut.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/error/globe.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\error\globe.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/error/planet.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\error\planet.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/error/rocket.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\error\rocket.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/error/stars.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\error\stars.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/event/event-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\event\event-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/event/event-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\event\event-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/event/event-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\event\event-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/event/event-img-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\event\event-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/event/event-img-5.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\event\event-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/favicon/block-safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\favicon\block-safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/favicon/favicon.ico
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://block.codescandy.com/assets/images/favicon/site.webmanifest
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\favicon\site.webmanifest
+Content Type: 
+
+Uri: https://block.codescandy.com/assets/images/hero/clean-perosnal-template.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\hero\clean-perosnal-template.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/hero/creative-agency-template.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\hero\creative-agency-template.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/hero/landing-accounting.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\hero\landing-accounting.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/hero/landing-saas-finance.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\hero\landing-saas-finance.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/hero/landing-saas-v1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\hero\landing-saas-v1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/hero/landing-saas-v2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\hero\landing-saas-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/hero/modern-conference-landing-template.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\hero\modern-conference-landing-template.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-1.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-10.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-10.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-11.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-11.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-12.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-12.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-13.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-13.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-14.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-14.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-15.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-15.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-2.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-3.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-4.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-5.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-6.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-7.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-7.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-8.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-8.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integrate-logo-9.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integrate-logo-9.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integration-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integration-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integration-logo-16.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integration-logo-16.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integration-logo-17.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integration-logo-17.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/integration-logo/integration-logo-18.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\integration-logo\integration-logo-18.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-hero-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-hero-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-support.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-support.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-5.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-5.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-bg-1.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-bg-1.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-bg-2.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-bg-2.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-bg-3.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-bg-3.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-bg-4.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-bg-4.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-bg-5.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-bg-5.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-g-1.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-g-1.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-g-2.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-g-2.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-g-3.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-g-3.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-g-4.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-g-4.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/account-tab-g-5.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\account-tab-g-5.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/americanexpress.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\americanexpress.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/dark.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\dark.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/light.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\light.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/mastercard.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/account/visa.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\account\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/agency/agency-hero-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\agency\agency-hero-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/conference/event-hero-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\conference\event-hero-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/conference/event-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\conference\event-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/finance/card.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\finance\card.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/finance/feature-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\finance\feature-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/finance/feature-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\finance\feature-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/finance/feature-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\finance\feature-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/finance/finance-hero-side-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\finance\finance-hero-side-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/finance/finance-tab-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\finance\finance-tab-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/finance/finance-tab-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\finance\finance-tab-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/finance/finance-tab-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\finance\finance-tab-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/overview/coming-soon.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\overview\coming-soon.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/overview/overview-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\overview\overview-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/overview/overview-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\overview\overview-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/overview/overview-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\overview\overview-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/overview/overview-img-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\overview\overview-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/overview/overview-img-5.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\overview\overview-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/overview/overview-img-6.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\overview\overview-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/overview/overview-img-8.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\overview\overview-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/overview/overview-img-9.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\overview\overview-img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/saas/app-screen-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\saas\app-screen-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/saas/saas-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\saas\saas-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/saas/saas-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\saas\saas-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/changelog.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\changelog.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/cta-img.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\cta-img.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/feature-1.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\feature-1.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/feature-2.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\feature-2.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/feature-3.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\feature-3.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/feedback.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\feedback.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/hero-app-screen.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\hero-app-screen.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/hero-frame-left.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\hero-frame-left.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/hero-frame-right-1.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\hero-frame-right-1.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/hero-frame-right-2.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\hero-frame-right-2.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/landings/sass-v3/product-roadmap.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\landings\sass-v3\product-roadmap.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/location/location-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\location\location-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/location/location-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\location\location-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/location/location-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\location\location-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/location/location-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\location\location-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/logo/brand-icon.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\logo\brand-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/logo/logo.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/navbar/bootstrap-navbar-example-1.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\navbar\bootstrap-navbar-example-1.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/navbar/bootstrap-navbar-example-2.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\navbar\bootstrap-navbar-example-2.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/navbar/bootstrap-navbar-example-3.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\navbar\bootstrap-navbar-example-3.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/navbar/bootstrap-navbar-example-4.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\navbar\bootstrap-navbar-example-4.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/navbar/bootstrap-navbar-example-5.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\navbar\bootstrap-navbar-example-5.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/pattern/cta-pattern.png
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\pattern\cta-pattern.png
+Content Type: image/png
+
+Uri: https://block.codescandy.com/assets/images/pattern/curve.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\pattern\curve.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/pattern/line-pattern.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\pattern\line-pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/pattern/pattern-square.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\pattern\pattern-square.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/pattern/pattern-white.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\pattern\pattern-white.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/perosnal-portfolio/personal-portfolio-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\perosnal-portfolio\personal-portfolio-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/perosnal-portfolio/personal-portfolio-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\perosnal-portfolio\personal-portfolio-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/perosnal-portfolio/personal-portfolio-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\perosnal-portfolio\personal-portfolio-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/perosnal-portfolio/personal-profile-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\perosnal-portfolio\personal-profile-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/personal-svg/figma.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\personal-svg\figma.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/personal-svg/html5.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\personal-svg\html5.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/personal-svg/nodejs.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\personal-svg\nodejs.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/personal-svg/react.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\personal-svg\react.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/portfolio/portfolio-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\portfolio\portfolio-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/portfolio/portfolio-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\portfolio\portfolio-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/portfolio/portfolio-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\portfolio\portfolio-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/portfolio/portfolio-img-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\portfolio\portfolio-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/portfolio/portfolio-img-5.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\portfolio\portfolio-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/portfolio/portfolio-img-6.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\portfolio\portfolio-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/portfolio/portfolio-single-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\portfolio\portfolio-single-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/process-icon/BracketsCurly.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\process-icon\BracketsCurly.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/process-icon/LightbulbFilament.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\process-icon\LightbulbFilament.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/process-icon/PencilCircle.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\process-icon\PencilCircle.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/process-icon/Rocket.svg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\process-icon\Rocket.svg
+Content Type: image/svg+xml
+
+Uri: https://block.codescandy.com/assets/images/service/project-small-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\project-small-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/project-small-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\project-small-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/project-small-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\project-small-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/service-header.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\service-header.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/service-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\service-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/service-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\service-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/service-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\service-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/service-img-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\service-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/service-img-wide-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\service-img-wide-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/service-img-wide-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\service-img-wide-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/service-img-wide-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\service-img-wide-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/service-img-wide-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\service-img-wide-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/service/testimonial-service-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\service\testimonial-service-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/sign-in/authentication-img.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\sign-in\authentication-img.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/team/team-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\team\team-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/team/team-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\team\team-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/team/team-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\team\team-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/team/team-img-4.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\team\team-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/testimonial/testimonial-img-1.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\testimonial\testimonial-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/testimonial/testimonial-img-2.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\testimonial\testimonial-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/images/testimonial/testimonial-img-3.jpg
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\images\testimonial\testimonial-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://block.codescandy.com/assets/js/theme.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\theme.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/cleave-function.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\cleave-function.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/color-modes.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\color-modes.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/filter-gallery.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\filter-gallery.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/glight.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\glight.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/jarallax.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\jarallax.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/parallax.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\parallax.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/password.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\password.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/plyr.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\plyr.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/pricing.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\pricing.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/rellax.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\rellax.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/scrollcue.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\scrollcue.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/sidebar-menu.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\sidebar-menu.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/sidenav.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\sidenav.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/swiper.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\swiper.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/js/vendors/tab-to-dropdown.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\js\vendors\tab-to-dropdown.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/bootstrap-icons/font/bootstrap-icons.min.css
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\bootstrap-icons\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://block.codescandy.com/assets/libs/bootstrap-icons/font/fonts/bootstrap-icons.woff2?1fa40e8900654d2863d011707b9fb6f2
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\bootstrap-icons\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://block.codescandy.com/assets/libs/bootstrap-icons/font/fonts/bootstrap-icons.woff?1fa40e8900654d2863d011707b9fb6f2
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\bootstrap-icons\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://block.codescandy.com/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/cleave.js/dist/addons/cleave-phone.i18n.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\cleave.js\dist\addons\cleave-phone.i18n.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/cleave.js/dist/cleave.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\cleave.js\dist\cleave.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/glightbox/dist/css/glightbox.min.css
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\glightbox\dist\css\glightbox.min.css
+Content Type: text/css
+
+Uri: https://block.codescandy.com/assets/libs/glightbox/dist/js/glightbox.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\glightbox\dist\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/headhesive/dist/headhesive.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\headhesive\dist\headhesive.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/jarallax/dist/jarallax.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\jarallax\dist\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/parallax-js/dist/parallax.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\parallax-js\dist\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/plyr/dist/plyr.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\plyr\dist\plyr.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/prismjs/components/prism-scss.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\prismjs\components\prism-scss.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/prismjs/plugins/copy-to-clipboard/prism-copy-to-clipboard.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\prismjs\plugins\copy-to-clipboard\prism-copy-to-clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/prismjs/plugins/toolbar/prism-toolbar.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\prismjs\plugins\toolbar\prism-toolbar.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/prismjs/prism.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\prismjs\prism.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/prismjs/themes/prism-okaidia.min.css
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\prismjs\themes\prism-okaidia.min.css
+Content Type: text/css
+
+Uri: https://block.codescandy.com/assets/libs/rellax/rellax.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\rellax\rellax.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/scrollcue/scrollCue.css
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\scrollcue\scrollCue.css
+Content Type: text/css
+
+Uri: https://block.codescandy.com/assets/libs/scrollcue/scrollCue.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\scrollcue\scrollCue.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/simplebar/dist/simplebar.min.css
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\simplebar\dist\simplebar.min.css
+Content Type: text/css
+
+Uri: https://block.codescandy.com/assets/libs/simplebar/dist/simplebar.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\simplebar\dist\simplebar.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/assets/libs/swiper/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://block.codescandy.com/assets/libs/swiper/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\block.codescandy.com\assets\libs\swiper\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://block.codescandy.com/blocks/about.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\about.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/award.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\award.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/blog.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\blog.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/carousel.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\carousel.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/clients.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\clients.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/contact.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\contact.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/cta.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\cta.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/facts.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\facts.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/faq.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\faq.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/features.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\features.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/footer.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\footer.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/form.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\form.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/hero-snippet-1.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\hero-snippet-1.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/hero-snippet-2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\hero-snippet-2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/hero-snippet-3.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\hero-snippet-3.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/hero-snippet-4.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\hero-snippet-4.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/hero-snippet-5.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\hero-snippet-5.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/hero-snippet-6.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\hero-snippet-6.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/hero-snippet-7.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\hero-snippet-7.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/hero.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\hero.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/integration.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\integration.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/location.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\location.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/navbar.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\navbar.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/navbars/navbar-1.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\navbars\navbar-1.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/navbars/navbar-2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\navbars\navbar-2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/navbars/navbar-3.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\navbars\navbar-3.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/navbars/navbar-4.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\navbars\navbar-4.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/navbars/navbar-5.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\navbars\navbar-5.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/portfolio.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\portfolio.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/pricing.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\pricing.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/process.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\process.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/team.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\team.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blocks/testimonails.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blocks\testimonails.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blog-category.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blog-category.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blog-grid-thumbnail.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blog-grid-thumbnail.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blog-list-view.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blog-list-view.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blog-sidebar.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blog-sidebar.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blog-single.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blog-single.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/blog.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\blog.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/career.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\career.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/changelog.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\changelog.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/contact-1.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\contact-1.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/contact-2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\contact-2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/background.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\background.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/border.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\border.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/changelog.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\changelog.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/color.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\color.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/colored-link.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\colored-link.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/colors.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\colors.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/compiled-files.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\compiled-files.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/alert.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\alert.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/badge.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\badge.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/breadcrumb.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\breadcrumb.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/button-group.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\button-group.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/button.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\button.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/card.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\card.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/carousel.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\carousel.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/collapse.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\collapse.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/dropdown.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\dropdown.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/forms.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\forms.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/list-group.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\list-group.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/modal.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\modal.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/nav-tabs.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\nav-tabs.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/offcanvas.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\offcanvas.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/pagination.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\pagination.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/placeholders.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\placeholders.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/popovers.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\popovers.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/progress.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\progress.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/scrollspy.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\scrollspy.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/spinners.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\spinners.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/table.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\table.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/toast.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\toast.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/components/tooltip.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\components\tooltip.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/environment-setup.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\environment-setup.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/file-structure.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\file-structure.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/index.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\index.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/opacity.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\opacity.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/ratio.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\ratio.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/resources-assets.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\resources-assets.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/shadows.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\shadows.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/stacks.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\stacks.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/text-truncation.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\text-truncation.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/text.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\text.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/typography.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\typography.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/vertical-rule.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\vertical-rule.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/docs/working-with-gulp.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\docs\working-with-gulp.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/event-single.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\event-single.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/events.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\events.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/forget-password-v2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\forget-password-v2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/forget-password.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\forget-password.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/index.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\index.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/integration-single.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\integration-single.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/integration.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\integration.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/landing-accounting.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\landing-accounting.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/landing-conference.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\landing-conference.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/landing-finance.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\landing-finance.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/landing-jamstack-agancy.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\landing-jamstack-agancy.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/landing-personal.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\landing-personal.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/landing-sass-v1.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\landing-sass-v1.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/landing-sass-v2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\landing-sass-v2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/otp-varification-v2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\otp-varification-v2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/otp-varification.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\otp-varification.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/portfolio-single.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\portfolio-single.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/portfolio.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\portfolio.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/pricing-v1.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\pricing-v1.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/pricing-v2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\pricing-v2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/reset-password-v2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\reset-password-v2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/reset-password.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\reset-password.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/service-v1.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\service-v1.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/service-v2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\service-v2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/service-v3.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\service-v3.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/signin-v2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\signin-v2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/signin.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\signin.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/signup-v2.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\signup-v2.html
+Content Type: text/html
+
+Uri: https://block.codescandy.com/signup.html
+File Name: C:\Downloaded Web Sites\block.codescandy.com\signup.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,500&display=swap
+File Name: C:\Downloaded Web Sites\block.codescandy.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+File Name: C:\Downloaded Web Sites\block.codescandy.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-M8S4MT3EYG
+File Name: C:\Downloaded Web Sites\block.codescandy.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.youtube.com/iframe_api
+File Name: C:\Downloaded Web Sites\block.codescandy.com\iframe_api
+Content Type: text/javascript
+
